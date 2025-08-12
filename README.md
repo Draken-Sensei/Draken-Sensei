@@ -27,7 +27,7 @@
         |                  |                  |                  |
    🥊 VICE-CAPTAIN      💻 TECH LEAD      ⚡ CHIEF ARCHITECT  🛡️ SECURITY HEAD
     Draken-sensei       Mitsuya-san        Baji-kun          Chifuyu-kun
-(THIS IS MY POSITION!) Frontend Master   Backend Samurai   Cyber Guardian
+(THIS IS MY POSITION!) 
         |                  |                  |                  |
    ┌────┴────┐        ┌────┴────┐        ┌────┴────┐        ┌────┴────┐
 🚀 SPECIAL OPS      🎨 FRONTEND CREW    🏗️ BACKEND ARMY    🔐 CYBER SQUAD

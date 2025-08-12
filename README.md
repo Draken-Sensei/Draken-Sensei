@@ -17,7 +17,7 @@
 ---
 
 ## 🐉 Tokyo Manji Gang - Vice Captain Profile | 東京卍會副総長
-<div align="center">
+<div align="left">
     
 ```javascript
 const draken = {

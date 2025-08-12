@@ -1,10 +1,9 @@
 # 🐉 Yo! I'm Draken-Sensei 💪
 
-<div align="center">
+<div align="left">
+## 🗡️ Bushido Code
 
-## 🔥 VICE-CAPTAIN | 副総長
-
-> **The Dragon of Shibuya. Mikey's right-hand, code's left hook. I protect our gang and crush bugs with raw power.**
+> **Loyal guardian, system fortress. I shield, strengthen, and stand firm, turning fragile code into unbreakable foundations. My mission: protection through power.**
 
 > *"I'll always have Mikey's back, and I'll have yours too. That's what it means to be family."* - The Invincible Dragon
 

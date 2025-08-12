@@ -1,4 +1,4 @@
-# 🐉 Yo! I'm Draken-Sensei (Ken Ryuguji) 💪
+# 🐉 Yo! I'm Draken-Sensei 💪
 
 <div align="center">
 

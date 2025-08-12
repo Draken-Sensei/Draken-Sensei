@@ -57,7 +57,7 @@ const draken = {
 ```
 
 </div
-    
+
 ## 🛠️ Dragon Arsenal | 龍の武器庫
 
 ### 🐲 Vice-Captain Combat Techniques | 副総長戦闘技術
@@ -120,6 +120,7 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
 
 </div>
 <div align="left">
+    
 ## 🎮 Gang Achievements | 暴走族実績
 
 ```diff
@@ -135,6 +136,7 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
 + 💀 Defeated 500+ Major Bug Invasions | 500以上の大型バグ撃破
 ```
 </div>
+
 ## 🌐 Connect with the Dragon | 龍と繋がる
 
 <div align="center">
@@ -147,6 +149,7 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
 </div>
 
 ## 💫 Gang Battle Chronicles | 暴走族戦闘記録
+
 <div align="left">
     
 ```javascript

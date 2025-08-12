@@ -17,7 +17,8 @@
 ---
 
 ## 🐉 Tokyo Manji Gang - Vice Captain Profile | 東京卍會副総長
-
+<div align="center">
+    
 ```javascript
 const draken = {
     realName: "Ken Ryuguji | 龍宮寺堅",
@@ -55,6 +56,7 @@ const draken = {
 };
 ```
 
+</div>
 ## 🛠️ Dragon Arsenal | 龍の武器庫
 
 ### 🐲 Vice-Captain Combat Techniques | 副総長戦闘技術

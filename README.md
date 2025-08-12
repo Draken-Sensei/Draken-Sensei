@@ -98,6 +98,7 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
 ```
 </div></div>
 <div align="left">
+    
 ### 🏆 LEGENDARY STATUS ACHIEVED
 **RANK: INVINCIBLE DRAGON | 無敵の龍**
 - 🐉 Vice-Captain of Tokyo Manji Code Gang

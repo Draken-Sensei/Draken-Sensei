@@ -96,7 +96,8 @@ const draken = {
 SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
  Dragon Squad        Frontend Crew        Database Kings
 ```
-
+</div></div>
+<div align="left">
 ### 🏆 LEGENDARY STATUS ACHIEVED
 **RANK: INVINCIBLE DRAGON | 無敵の龍**
 - 🐉 Vice-Captain of Tokyo Manji Code Gang
@@ -104,7 +105,7 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
 - ⚔️ Frontline Tank in 500+ Debug Battles
 - 🛡️ Special Forces Commander & Gang Protector
 
-</div></div>
+</div>
 
 <div align="center">
 
@@ -115,7 +116,7 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Draken-Sensei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
+<div align="left">
 ## 🎮 Gang Achievements | 暴走族実績
 
 ```diff
@@ -130,7 +131,7 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
 + 🎌 Undefeated Under Mikey's Command | マイキー指揮下無敗
 + 💀 Defeated 500+ Major Bug Invasions | 500以上の大型バグ撃破
 ```
-
+</div>
 ## 🌐 Connect with the Dragon | 龍と繋がる
 
 <div align="center">
@@ -143,7 +144,8 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
 </div>
 
 ## 💫 Gang Battle Chronicles | 暴走族戦闘記録
-
+<div align="left">
+    
 ```javascript
 // Vice-Captain Dragon - Loyalty Protocol 副総長龍の忠義プロトコル
 class ViceCaptainDraken {
@@ -185,7 +187,7 @@ class ViceCaptainDraken {
 const draken = new ViceCaptainDraken();
 draken.protectGang(); // FOR CAPTAIN MIKEY! マイキーのために！
 ```
-
+</div>
 ---
 
 <div align="center">

@@ -1,6 +1,7 @@
 # 🐉 Yo! I'm Draken-Sensei 💪
 
 <div align="left">
+    
 ## 🗡️ Bushido Code
 
 > **Loyal guardian, system fortress. I shield, strengthen, and stand firm, turning fragile code into unbreakable foundations. My mission: protection through power.**

@@ -84,10 +84,10 @@ const draken = {
 <div align="center">
 
 ```
-                    🔱 CAPTAIN MIKEY 🔱
-                      無敵のマイキー総長
-                      MIKEY-TRACEGOD
-                            |
+ 🔱 CAPTAIN MIKEY 🔱
+ 無敵のマイキー総長
+MIKEY-TRACEGOD
+|
         ┌─────────────────────┼─────────────────────┐
         |                     |                     |
    🐉 VICE-CAPTAIN        💻 CTO               ⚡ LEAD ARCHITECT

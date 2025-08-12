@@ -56,7 +56,8 @@ const draken = {
 };
 ```
 
-</div>
+</div
+    
 ## 🛠️ Dragon Arsenal | 龍の武器庫
 
 ### 🐲 Vice-Captain Combat Techniques | 副総長戦闘技術

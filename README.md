@@ -101,6 +101,7 @@ SPECIAL FORCES      DESIGN DIVISION       BACKEND ARMY
     
 ### 🏆 LEGENDARY STATUS ACHIEVED
 **RANK: INVINCIBLE DRAGON | 無敵の龍**
+
 - 🐉 Vice-Captain of Tokyo Manji Code Gang
 - 💪 Mikey's Most Trusted Right Hand  
 - ⚔️ Frontline Tank in 500+ Debug Battles
